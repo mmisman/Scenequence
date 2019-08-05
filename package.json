@@ -1,0 +1,17 @@
+{
+  "name": "com.mmisman.scenequence",
+  "version": "0.1.0",
+  "displayName": "Scenequence",
+  "description": "A set of interfaces that helps you easily divide, control and direct the sequence of a Unity scene.",
+  "keywords": [
+  	"state machine",
+  	"scene",
+  	"sub-scene",
+  	"sequence"
+  ],
+  "author": {
+    "name": "Jungman Chung",
+    "email": "mmisman@me.com",
+    "url": "https://github.com/mmisman/Scenequence.git"
+  }
+}

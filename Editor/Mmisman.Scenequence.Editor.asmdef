@@ -1,0 +1,17 @@
+{
+    "name": "Mmisman.Scenequence.Editor",
+    "references": [
+        "GUID:36ef859558a9b45a5b6b84377f1709ec"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

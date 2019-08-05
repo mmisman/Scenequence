@@ -1,0 +1,20 @@
+{
+    "name": "Mmisman.Scenequecne.Editor.Tests",
+    "references": [
+        "GUID:36ef859558a9b45a5b6b84377f1709ec",
+        "GUID:ae9e469878e45447f82f23e077d200a0"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
